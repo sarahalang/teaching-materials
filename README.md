@@ -13,3 +13,8 @@ I will try to progressively find materials I have created so far (this relocatio
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
 
+
+
+## Preparatory workshop to an Intro to CLTK workshop
+My original workshop was called 'Digitale Sprachverarbeitung für historische Disziplinen' and was held at Karl-Franzens-Universität Graz in November 2019. 
+( [SLIDES](https://github.com/sarahalang/cltk-prep-intro-SLIDES) | [Cheatsheet](https://github.com/sarahalang/cltk-preparatory-intro-to-nlp) )
