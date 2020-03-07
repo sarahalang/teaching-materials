@@ -23,3 +23,30 @@ The actual workshop on 'Using the Classical Language Toolkit' given by Eleftheri
 can be found [here (repo).](https://github.com/clemsciences/cltk-2019-graz) This happened the day after my workshop, or rather, my workshop happened on the evening before this one. The repo includes Jupyter Noteboks and Slides. It's great material - be sure to check it out!
 
 These are the [slides from their workshop](https://github.com/clemsciences/cltk-2019-graz/blob/master/graz_presentation_06112019.pdf).
+
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>
+    <a href="https://github.com/sarahalang/cltk-preparatory-intro-to-nlp/">CLTK-Prep-Workshop Cheatsheet</a>
+    </th>
+		<th>
+      <a href="https://github.com/sarahalang/cltk-prep-intro-SLIDES/">CLTK-Prep-Workshop Slides</a>
+    </th>
+    <th>CLTK slides</th>
+	</tr>
+	<tr>
+		<td width="33%">
+			<img src="https://github.com/sarahalang/cltk-preparatory-intro-to-nlp/blob/master/preview-cltk-cheatsheet.png" 
+				alt="Preview CLTK-Prep-Workshop Cheatsheet" />
+		</td>
+		<td width="33%">
+			<img src="https://github.com/sarahalang/cltk-prep-intro-SLIDES/blob/master/preview-pre-cltk-slides.png" 
+				alt="Preview CLTK-Prep-Workshop Slides" />
+		</td>
+    		<td width="33%">
+          <a href="
+			<img src="" 
+				alt="Preview CLTK slides" />
+		</td>
+	</tr>
+</table>
