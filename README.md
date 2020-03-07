@@ -18,3 +18,8 @@ I will try to progressively find materials I have created so far (this relocatio
 ## Preparatory workshop to an Intro to CLTK workshop
 My original workshop was called 'Digitale Sprachverarbeitung für historische Disziplinen' and was held at Karl-Franzens-Universität Graz in November 2019. 
 ( [SLIDES](https://github.com/sarahalang/cltk-prep-intro-SLIDES) | [Cheatsheet](https://github.com/sarahalang/cltk-preparatory-intro-to-nlp) )
+
+The actual workshop on 'Using the Classical Language Toolkit' given by Eleftheria Chatziargyriou & Clément Besnier on 2019/11/06 
+can be found [here (repo).](https://github.com/clemsciences/cltk-2019-graz) This happened the day after my workshop, or rather, my workshop happened on the evening before this one. The repo includes Jupyter Noteboks and Slides. It's great material - be sure to check it out!
+
+These are the [slides from their workshop](https://github.com/clemsciences/cltk-2019-graz/blob/master/graz_presentation_06112019.pdf).
