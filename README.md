@@ -55,6 +55,8 @@ These are the [slides from their workshop](https://github.com/clemsciences/cltk-
 	</tr>
 </table>
 
+Probably somewhat annoyingly, the materials are part-German part-English, so probably better suited for German users. But big parts might still be interesting for those not speaking German. I'll translate the whole thing if it's requested.
+
 ## To follow
 * Slides and Cheatsheet for the German class on digital annotation (XML mostly) given at University of Passau winter term 2019/20
 * Slides and Cheatsheet for the German class on quantitative text analysis (mostly avoiding programming, some R) given at University of Passau summer term 2019
