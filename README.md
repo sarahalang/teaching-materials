@@ -32,21 +32,25 @@ These are the [slides from their workshop](https://github.com/clemsciences/cltk-
 		<th>
       <a href="https://github.com/sarahalang/cltk-prep-intro-SLIDES/">CLTK-Prep-Workshop Slides</a>
     </th>
-    <th>CLTK slides</th>
+    <th> <a href="https://github.com/clemsciences/cltk-2019-graz/blob/master/graz_presentation_06112019.pdf">CLTK-Prep-Workshop Slides</a>
+		</th>
 	</tr>
 	<tr>
 		<td width="33%">
+			<a href="https://github.com/sarahalang/cltk-preparatory-intro-to-nlp/">
 			<img src="https://github.com/sarahalang/cltk-preparatory-intro-to-nlp/blob/master/preview-cltk-cheatsheet.png" 
-				alt="Preview CLTK-Prep-Workshop Cheatsheet" />
+			     alt="Preview CLTK-Prep-Workshop Cheatsheet" /></a>
 		</td>
 		<td width="33%">
+			<a href="https://github.com/sarahalang/cltk-prep-intro-SLIDES/">
 			<img src="https://github.com/sarahalang/cltk-prep-intro-SLIDES/blob/master/preview-pre-cltk-slides.png" 
-				alt="Preview CLTK-Prep-Workshop Slides" />
+			     alt="Preview CLTK-Prep-Workshop Slides" /></a>
 		</td>
     		<td width="33%">
-          <a href="
-			<img src="" 
+          <a href="https://github.com/clemsciences/cltk-2019-graz/">
+			<img src="https://github.com/sarahalang/teaching-materials/blob/master/preview-cltk-slides.png" 
 				alt="Preview CLTK slides" />
+			</a>
 		</td>
 	</tr>
 </table>
